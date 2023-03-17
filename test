@@ -1,0 +1,2 @@
+txt = "hello"
+  navigator.clipboard.writeText(txt);
